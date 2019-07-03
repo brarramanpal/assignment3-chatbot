@@ -7,7 +7,7 @@
 3)Select the  required folder.
 
 
-4)Press ctrl+ 
+4)Press ctrl+ ~ .
 
 5)Write git clone in bash,then npm install.
 
