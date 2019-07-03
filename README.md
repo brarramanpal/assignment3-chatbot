@@ -10,8 +10,14 @@
 4)Press ctrl+ 
 
 5)Write git clone in bash,then npm install.
-6)Then write the logic .
+
+
+6)Then write the logic.
+
+
 7)To build project, write npm start.Then goto localhost.
+
+
 8)Now you can use chatbot.
 
 
